@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi there 👋
+## I'm RPGTheGreat
 
-<!--
-**RPGTheGreat/RPGTheGreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Looks like you find my profile in this magical place called `GitHub`!
 
-Here are some ideas to get you started:
+- 👤 About me 
+  - Who am i?
+    - I'm a Full Stack Developer and I'm also a designer and a hacker.
+  - What do i work on?
+    - I mainly work on `Discord bots` and `apps` and `websites` also `npm packages`
+  - How can you reach out to me?
+    - You can contact with me in my discord server [discord](https://discord.gg/yqAGXbz)
+  - Can i contribute in your projects?
+    - Well of course you can but the best thing to do is to ask me by emailing me or talking to me in my DMs on Discord
+- <img src="https://discordia.me/uploads/badges/verified_developer_badge.png" width=30> My projects
+  - **BLACKFOX v2.0** the Discord bot
+    - I mainly work on this bot aka my main project I've made this 6 months old and some reason it can't be verified we hope it's verified soon!
+    - **Assistant** the Discord bot
+    - BOT help us to do our bot list stuff very easily
+  - **antispam-guard** the npm package
+   - A very powerful module help you to make AUTOMOD stuff very easily!  (`npm i antispam-guard`)
+  - **userinfo-github** the npm package
+    - A simple module help you to get github user information! (`npm i userinfo-github`)
+- ❓ Why is this a long profile?
+  - _Because I don't know!_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming languages i use
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=35> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width=31> <img src="https://logosvector.net/wp-content/uploads/2013/03/java-eps-vector-logo.png" width=37>
+
+[Main programming language i use is **JavaScript**]
+
+### Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=R&theme=algolia)
+### Thanks for reading through my profile! Have a great day!
