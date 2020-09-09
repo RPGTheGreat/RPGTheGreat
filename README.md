@@ -28,7 +28,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=35>
 
 ### Learning Languages
-<img src="https://logosvector.net/wp-content/uploads/2013/03/java-eps-vector-logo.png" width=37> <img src="https://cdn.discordapp.com/attachments/721596667526381569/753131925522219088/typescript.png" width=35>
+<img src="https://logosvector.net/wp-content/uploads/2013/03/java-eps-vector-logo.png" width=37> <img src="https://cdn.discordapp.com/attachments/721596667526381569/753131925522219088/typescript.png" width=35> <img src="https://cdn.discordapp.com/attachments/721596667526381569/753131925350383686/5848152fcef1014c0b5e4967.png" width="35">
 
 [Main programming language i use is **JavaScript**]
 
