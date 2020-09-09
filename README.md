@@ -11,12 +11,12 @@
   - How can you reach out to me?
     - You can contact with me in my discord server [discord](https://discord.gg/yqAGXbz)
   - Can i contribute in your projects?
-    - Well of course you can but the best thing to do is to ask me by emailing me or talking to me in my DMs on Discord
+    - Well of course you can but the best thing to do is to ask me to by in my DMs on Discord
 - <img src="https://discordia.me/uploads/badges/verified_developer_badge.png" width=30> My projects
   - **BLACKFOX v2.0** the Discord bot
     - I mainly work on this bot aka my main project I've made this 6 months old and some reason it can't be verified we hope it's verified soon!
     - **Assistant** the Discord bot
-    - BOT help us to do our bot list stuff very easily
+    - Bot help us to do our bot list stuff very easily
   - **antispam-guard** the npm package
    - A very powerful module help you to make AUTOMOD stuff very easily!  (`npm i antispam-guard`)
   - **userinfo-github** the npm package
@@ -25,7 +25,10 @@
   - _Because I don't know!_
 
 ### Programming languages i use
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=35> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width=31> <img src="https://logosvector.net/wp-content/uploads/2013/03/java-eps-vector-logo.png" width=37>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=35>
+
+### Learning Languages
+<img src="https://logosvector.net/wp-content/uploads/2013/03/java-eps-vector-logo.png" width=37>
 
 [Main programming language i use is **JavaScript**]
 
