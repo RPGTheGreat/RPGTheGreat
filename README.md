@@ -31,5 +31,5 @@
 
 ### Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=R&theme=algolia)
+![Stats](https://github-readme-stats.vercel.app/api?username=RPGTheGreat&theme=algolia)
 ### Thanks for reading through my profile! Have a great day!
