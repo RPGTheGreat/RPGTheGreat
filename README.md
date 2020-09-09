@@ -25,7 +25,7 @@
   - _Because I don't know!_
 
 ### Programming languages i use
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=35> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" width=35>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=35> <img src="https://cdn.discordapp.com/attachments/721596667526381569/753143901157589032/kisspng-html-what-i-feel-like-5b64aa61c8c120.2517014215333238738223.png" width=35> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" width=35>
 
 ### Learning Languages
 <img src="https://logosvector.net/wp-content/uploads/2013/03/java-eps-vector-logo.png" width=37> <img src="https://cdn.discordapp.com/attachments/721596667526381569/753131925522219088/typescript.png" width=35> <img src="https://cdn.discordapp.com/attachments/721596667526381569/753131925350383686/5848152fcef1014c0b5e4967.png" width=35>
