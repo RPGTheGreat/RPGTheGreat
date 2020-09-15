@@ -15,8 +15,10 @@
 - <img src="https://discordia.me/uploads/badges/verified_developer_badge.png" width=30> My projects
   - **BLACKFOX v2.0** the Discord bot
     - I mainly work on this bot aka my main project I've made this 6 months old and some reason it can't be verified we hope it's verified soon!
-    - **Assistant** the Discord bot
+    - **Discord Bot List** the Discord bot
     - Bot help us to do our bot list stuff very easily
+  - **Assistant** the Discord bot
+  - Bot help us to do our web work easily
   - **antispam-guard** the npm package
    - A very powerful module help you to make AUTOMOD stuff very easily!  (`npm i antispam-guard`)
   - **userinfo-github** the npm package
