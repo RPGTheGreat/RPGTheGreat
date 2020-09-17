@@ -19,6 +19,8 @@
     - Bot help us to do our bot list stuff very easily
   - **Assistant** the Discord bot
   - Bot help us to do our web work easily
+  - **Virtual Private Server** the Discord bot
+  - Bot help you to make you're glitch projects alive 24/7
   - **antispam-guard** the npm package
    - A very powerful module help you to make AUTOMOD stuff very easily!  (`npm i antispam-guard`)
   - **userinfo-github** the npm package
