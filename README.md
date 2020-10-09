@@ -19,7 +19,7 @@
     - Bot help us to do our bot list stuff very easily
   - **Assistant** the Discord bot
   - Bot help us to do our web work easily
-  - **People+** the Discord bit
+  - **People+** the Discord bot
   - Bot help you to grow you're server like fast and crazy
   - **Virtual Private Server** the Discord bot
   - Bot help you to make you're glitch projects alive 24/7
