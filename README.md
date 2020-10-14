@@ -27,6 +27,8 @@
    - A very powerful module help you to make AUTOMOD stuff very easily!  (`npm i antispam-guard`)
   - **userinfo-github** the npm package
     - A simple module help you to get github user information! (`npm i userinfo-github`)
+   - **lavaplayer** the npm package
+   - A very high quality music package gives you quality like Rythm,Groov(`npm i lavaplayer`)
 - ❓ Why is this a long profile?
   - _Because I don't know!_
 
